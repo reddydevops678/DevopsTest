@@ -1,0 +1,76 @@
+What is Continuous Integration and Continuous Deployment
+
+
+https://www.ibm.com/cloud/learn/containers
+
+$ cat .gitconfig
+[user]
+        name = reddy456
+        email = murali.scm1005@gmail.com
+[gui]
+        recentrepo = C:/Users/ramna/Desktop/MPOS
+[difftool "sourcetree"]
+        cmd = '' \"$LOCAL\" \"$REMOTE\"
+[mergetool "sourcetree"]
+        cmd = "'' "
+        trustExitCode = true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prerequisites
+871174
+This information is used by Git for each commit.
+git config --global user.name "Murali"
+
+git config --global user.email "reddydevops678@gmail.com"
+To use Git and GitHub, you need:
+
+A desktop computer with Git installed on it (see the Git downloads page).
+A tool to use Git. Depending on how you like to work, you could use a Git GUI client (we'd recommend GitHub Desktop, SourceTree or Git Kraken) or just stick to using a terminal window. In fact, it is probably useful for you to get to know at least the basics of git terminal commands, even if you intend to use a GUI.
+A GitHub account. If you haven't already got one, sign up now using the provided link.
+
+
+Features of Git
+Tracks history
+Free and open source
+Supports non-linear development
+Creates backups
+Scalable
+Supports collaboration
+Branching is easier
+Distributed development
+
+
+Git is a version control system to manage source code history.
+Git is open-source licensed.
+Git has minimal external tool configuration.
+Git provides a Desktop interface named Git Gui.
+Git is focused on version control and code sharing.
+
+
+GitHub is a service.
+GitHub is a graphical user interface
+GitHub is hosted on the web
+GitHub is focused on centralized source code hosting.
+GitHub is a hosting service for Git repositories.
+GitHub includes a free-tier and pay-for-use tier.
+GitHub provides a Desktop interface named GitHub Desktop.
+
+
+
